@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://0x-7461.github.io</id>
+    <title>Genkaim</title>
+    <updated>2023-08-10T07:07:36.224Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://0x-7461.github.io"/>
+    <link rel="self" href="https://0x-7461.github.io/atom.xml"/>
+    <subtitle>  </subtitle>
+    <logo>https://0x-7461.github.io/images/avatar.png</logo>
+    <icon>https://0x-7461.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Genkaim</rights>
+    <entry>
+        <title type="html"><![CDATA[Ooops!]]></title>
+        <id>https://0x-7461.github.io/post/ooops/</id>
+        <link href="https://0x-7461.github.io/post/ooops/">
+        </link>
+        <updated>2023-07-07T00:42:19.000Z</updated>
+        <content type="html"><![CDATA[<p><s>被找到力</s><br>
+这个站已经没了<br>
+来这玩<br>
+Github Page 主站👉<a href="https://genkaim.github.io">genkaim.github.io</a><br>
+xLog 分站👉<a href="https://genkaim.xlog.app">genkaim.xlog.app</a><br>
+<s>gridea真不太好用</s><br>
+<img src="https://0x-7461.github.io/post-images/1688691775116.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
